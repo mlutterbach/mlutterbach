@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos Lutterbach</h1>
 <h3 align="center">A passionate Full Stack Web Developer in Spain</h3>
 
-- 🔭 I’m currently working on [FuturApp](futurapp.me)
+- 🔭 I’m currently working at CleverAds
 
-- 🌱 I’m currently learning **JavaScript, React, Python**
+- 🌱 I’m currently learning **Go, Kubernetes**
 
 - 📫 How to reach me **mlutterb@gmail.com**
 
